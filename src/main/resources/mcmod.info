@@ -1,0 +1,15 @@
+[
+{
+  "modid": "slowerbackpedaling",
+  "name": "Slower Backpedaling",
+  "description": "Decreases movement to sides or back",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tfarecmin"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
