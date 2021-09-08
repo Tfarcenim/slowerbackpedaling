@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Public domain"
+
+[[mods]]
+modId="slowerbackpedaling"
+version="1.1"
+displayName="Slower Backpedaling"
+#updateJSONURL=""
+displayURL="https://www.curseforge.com/minecraft/mc-mods/slower-backpedaling"
+#logoFile="logo.png"
+#credits=""
+authors="Tfarcenim"
+description='''
+Decreases movement to sides or back.'''
+
+[[dependencies.slowerbackpedaling]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36.2.0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.slowerbackpedaling]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"
